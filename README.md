@@ -1,4 +1,4 @@
-# Azure - Kubernetes Module by Raja
+# Azure - Kubernetes Module by Raja sekhar Ede
 
 ## Introduction
 
